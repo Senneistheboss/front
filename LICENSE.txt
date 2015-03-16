@@ -1,0 +1,15 @@
+- License does not expire.
+- Can be used on 1 site, 1 server
+- Source-code or binary products cannot be resold or distributed
+- Non-commercial use only
+- Can modify source-code but cannot distribute modifications (derivative works)
+- Attribution to software creator must be made as specified:
+        Must retain "Design by Jerred Shepherd", as it is, unless attribution removal is purchased.
+- Parts of the software are provided under separate licenses, as follows:
+        jQuery v2.0.3 is under the MIT license 
+		Bootstrap v3.2.0 is under the MIT license
+		Font Awesome v4.2.0 is under SIL OFL 1
+		Font Awesome CSS v4.2.0 is under the MIT license
+        PHP-Minecraft-Query is under the Creative Commons NCSA license
+		
+View the full license at http://www.binpress.com/license/view/l/7571a75c49fd978f0beab32925c094be
