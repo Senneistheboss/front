@@ -1,4 +1,2 @@
 # Front
-A website template created with Twitter Bootstrap for Minecraft servers
-
-Previously a paid template of mine, I've now released it for anyone who'd like to use it. The license/read me might not make sense, as I haven't updated them to reflect this change.
+Front is a template intended for Minecraft servers, built with Twitter Bootstrap 3. It contains 9 unique pages. The code is clean HTML and CSS, with the core files being minified to reduce bandwidth usage. This is 100% responsive, meaning it'll look great on desktops, tablets, and mobiles.
