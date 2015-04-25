@@ -1,11 +1,12 @@
-/* GENERAL ADJUSTMENTS */
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', sans-serif !important;
-}
+/* Front Version 7
+Created by Jerred Shepherd (RiotShielder) */
 
 body, p, a {
-    font-family: 'Open Sans', sans-serif !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
 }
 
 body {
@@ -104,14 +105,12 @@ body {
 
 
 /* PLAY PAGE */
-
 .play-servertitle {
     margin-top: 10px
 }
 
 
 /* SHOP PAGE */
-
 .productbox {
     background-color: #ffffff;
     padding: 10px;

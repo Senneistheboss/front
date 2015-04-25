@@ -61,7 +61,7 @@
 
 	try
 	{
-		$Query4->Connect( MQ_SERVER_ADDR1, MQ_SERVER_PORT1, MQ_TIMEOUT );
+		$Query4->Connect( MQ_SERVER_ADDR4, MQ_SERVER_PORT4, MQ_TIMEOUT );
 	}
 	catch( MinecraftQueryException $e )
 	{
@@ -74,7 +74,7 @@
 
 	try
 	{
-		$Query5->Connect( MQ_SERVER_ADDR2, MQ_SERVER_PORT2, MQ_TIMEOUT );
+		$Query5->Connect( MQ_SERVER_ADDR5, MQ_SERVER_PORT5, MQ_TIMEOUT );
 	}
 	catch( MinecraftQueryException $e )
 	{
@@ -85,7 +85,7 @@
 
 	try
 	{
-		$Query6->Connect( MQ_SERVER_ADDR3, MQ_SERVER_PORT3, MQ_TIMEOUT );
+		$Query6->Connect( MQ_SERVER_ADDR6, MQ_SERVER_PORT6, MQ_TIMEOUT );
 	}
 	catch( MinecraftQueryException $e )
 	{
@@ -98,6 +98,9 @@
 
 <!-- Metadata, Stylesheet, Title -->
 
+<!-- Front Version 7
+Created by Jerred Shepherd (RiotShielder) -->
+
 <head>
     <title>Play | Minecraft Server</title>
 
@@ -108,8 +111,11 @@
     <meta name="author" content="Jerred Shepherd">
     <link rel="shortcut icon" href="img/favicon.ico">
 
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700" rel='stylesheet' type='text/css'>
+
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
 </head>
 
@@ -354,10 +360,10 @@ echo $info['MaxPlayers'];
         </ul>
         <br>
     </div>
-    <script src="js/jquery.min.js" type="text/javascript">
-    </script>
-    <script src="js/bootstrap.min.js" type="text/javascript">
-    </script>
+<script src="http://code.jquery.com/jquery-1.11.2.min.js" type="text/javascript">
+</script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js" type="text/javascript">
+</script>
 </body>
 
 </html>
