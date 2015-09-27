@@ -14,5 +14,3 @@ Page List
 
 Screenshot
 <img src="http://i.imgur.com/LEhYLZq.png">
-
-Also avaliable on <a href="https://www.spigotmc.org/resources/web-front.4648/">Spigot</a>
