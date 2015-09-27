@@ -15,4 +15,4 @@ Page List
 Screenshot
 <img src="http://i.imgur.com/LEhYLZq.png">
 
-Also avaliable on <a href="http://www.spigotmc.org/resources/ui-x-bootstrap.5166/">Spigot</a>
+Also avaliable on <a href="https://www.spigotmc.org/resources/web-front.4648/">Spigot</a>
